@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "linazlina"
+  },
+  "targets": {
+    "linazlina": {
+      "hosting": {
+        "azlina1": [
+          "azlina"
+        ],
+        "azlina2": [
+          "linazlina"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

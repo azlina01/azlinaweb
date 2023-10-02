@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "lib\\widget\\bottomnav.dart": true,
+    "lib\\widget\\centerview.dart": true
+  }
+}
